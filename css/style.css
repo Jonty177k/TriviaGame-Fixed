@@ -1,0 +1,42 @@
+
+#ccTitle {
+	font-family: 'Barrio', cursive;
+	font-size: 70px;
+	color:#00254e;
+}
+
+#choiceA {
+	font-family: 'Barrio', cursive;
+	font-size: 30px;
+	color:#00254e;
+}
+#choiceA:hover {
+	background-color: #fffa85;
+}
+
+#choiceB {
+	font-family: 'Barrio', cursive;
+	font-size: 30px;
+	color:#00254e;
+}
+#choiceB:hover {
+	background-color: #fffa85;
+}
+
+#choiceC {
+	font-family: 'Barrio', cursive;
+	font-size: 30px;
+	color:#00254e;
+}
+#choiceC:hover {
+	background-color: #fffa85;
+}
+
+#choiceD {
+	font-family: 'Barrio', cursive;
+	font-size: 30px;
+	color:#00254e;
+}
+#choiceD:hover {
+	background-color: #fffa85;
+}
